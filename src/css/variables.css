@@ -11,4 +11,39 @@
     --color-10:#1B2565;
     --color-11:#FFFF;
     --color-12:#C5C9F7;
+    --color-13:#991F36;
+    --color-14:#666666;
+    --color-15:#DCDCE5;
+    --color-16:#0C123B;
+}
+@font-face {
+    font-family: "Rajdhani-Bold";
+    src: url(../storage/font/Rajdhani/Rajdhani-Bold.ttf);
+}
+@font-face {
+    font-family: "Rajdhani-Regular";
+    src: url(../storage/font/Rajdhani/Rajdhani-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Rajdhani-Medium";
+    src: url(../storage/font/Rajdhani/Rajdhani-Medium.ttf);
+}
+@font-face {
+    font-family: "Rajdhani-SemiBold";
+    src: url(../storage/font/Rajdhani/Rajdhani-SemiBold.ttf);
+}
+@font-face {
+    font-family: "Rajdhani-Light";
+    src: url(../storage/font/Rajdhani/Rajdhani-Light.ttf);
+}
+
+@font-face {
+    font-family: "Inter_18pt-Regular";
+    src: url(../storage/font/Inter/static/Inter_18pt-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Inter_18pt-Medium";
+    src: url(../storage/font/Inter/static/Inter_18pt-Medium.ttf);
 }
